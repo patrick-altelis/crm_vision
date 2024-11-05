@@ -1,0 +1,256 @@
+Identifiant client;Référence client;Dénomination;Adresse;Code postal;Ville;Pays;Liste d’e-mails;Téléphone;Siren;Numéro de TVA;Nombre de factures;Chiffre d’affaires (€);Mandat GoCardless
+2d1f7893-ab4e-4adf-853b-8eb650f052f9;129.0;HOTEL WEST-END PARIS;7 RUE CLEMENT MAROT;75008;PARIS;FR;cfernandes@parishotelsgroupe.com;+33147203078;552125239.0;FR43552125239;4;609,6;MD0007VSYQTYP9
+849c354f-f1a7-45d6-9a60-2937a3dec1cf;8.0;HOTEL BEAUSEJOUR MONTMARTRE;6 Rue Lécluse;75017;Paris;FR;contact@b-montmartre.com;01 42 93 35 77;572117497.0;;4;426,0;MD000165E9X32C
+0ea16281-e39a-45b5-9823-7eebb8092d20;20.0;HOTEL FAUBOURG 216 - 224;224 Rue du Faubourg Saint-Denis;75010;Paris;FR;direction@surehotelgaredunord.com;01 46 07 99 56;552004442.0;;4;1210,8;MD000165EDGBKS
+cb8f2b6b-5f55-4f84-841a-1d2004b44fd5;22.0;HOTEL GRAND HOTEL MAGENTA;129 Boulevard de Magenta;75010;Paris;FR;grandhotelmagenta@wanadoo.fr;01 48 78 03 65;572096600.0;;1;104,4;MD0001MMP0WC9V
+9ffea902-c12b-4e2a-87aa-f1a31a0d55bb;32.0;HOTEL ALTONA;166 Rue du Faubourg Poissonnière;75010;Paris;FR;"""reservation@hotelaltona.com, galdano.eusebio@gmail.com, comptabilite@altelis.com""";01 48 78 68 24;552077992.0;;3;600,0;MD000165EG157K
+36d716f5-b65f-4dc6-ad3c-70fe39cf917e;36.0;HOTEL APPIA LAFAYETTE;13 Rue des Deux Gares;75010;Paris;FR;directeur@hotelappia.com;01 42 09 72 99;380301069.0;;1;306,0;MD0001BJSAC7AD
+9fb16ef5-8c20-4064-b03d-7d4fed5fe931;49.0;HOTEL CARLADEZ CAMBRONNE;3 Place du Général Beuret;75015;Paris;FR;direction@hotelcarladez.com;01 47 34 07 12;;;4;1348,8;MD0001F1VKRH2H
+5319be35-4c6c-4209-a938-4bfae70b7024;52.0;HOTEL COLETTE;5 Place de la Gare;06400;Cannes;FR;pj@groupecible.com;;430414771.0;;0;0,0;MD0008FQHE992E
+e3d4a2dc-f7b5-4936-aad2-452d2751beba;54.0;HOTEL DE GENEVE;36 Rue de Londres;75009;Paris;FR;virginie.hoyon@atnhotel.fr;01 48 74 33 99;542045067.0;;1;849,6;MD0001F1R9SDC3
+be079cd8-6dfe-4f47-8325-961dd8c8bad5;91.0;HOTEL VILLA SOPHIA;348 Avenue de la Valmasque;06250;Mougins;FR;michele.ariza@me.com;+33492288820;830613204.0;;4;512,4;MD0006P78KHNXJ
+a5ffc93f-b3b6-4fea-9dcd-096e4f0264be;94.0;HOTEL LE RUSSIE;3 Rue Favart;63240;Le Mont-Dore;FR;grasset.nat@wanadoo.fr;04 73 65 05 97;520176843.0;;1;216,0;MD0001AG6SSGA3
+d43ab3a2-768b-460e-87bc-7fb79c62f915;95.0;HOTEL LES TERRES BLANCHES;Chemin du Tour des Bois;78400;Chatou;FR;"""contact@hotel-terres-blanches.fr, comptabilite@altelis.com""";01 30 15 88 40;803172857.0;;5;716,4;MD001XKA7F898X
+73b1fe6a-0b59-4be7-9416-8a438f65c525;102.0;HOTEL PALAIS DE CHAILLOT;35 Avenue Raymond Poincaré;75116;Paris;FR;"""reception@hotelpalaisdechaillot.com, admin@lespalaisdutrocadero.com""";0610130123;435178629.0;;9;3848,09;MD0022MBMYW3PN
+f50247f4-8890-43c6-ab9f-b730f9cf0729;140.0;HOTEL LE CASTELET;6 Avenue Michel Bertrand;63240;Le Mont-Dore;FR;castelet.ad@orange.fr;04 73 65 05 29;453373789.0;;4;523,2;MD002YP7GC40KB
+244ddbbe-f362-45ce-96a1-c7977bda0833;143.0;HOTEL LE PANORAMA;27 Avenue de la Libération;63240;Le Mont-Dore;FR;direction@hotel-le-panorama.com;04 73 65 11 12;381938901.0;;1;356,4;MD000165F7GVFQ
+6352fe6d-1b45-4d57-b671-d4578dc59c80;153.0;HOTEL MOULIN PLAZA;39 Rue Pierre Fontaine;75009;Paris;FR;accounting@copaho.com;;483223855.0;;5;684,0;MD000165F99TNM
+51ba0583-abaf-4954-8e5b-173e7ccd1397;159.0;HOTEL PALYM;4 Rue Émile Gilbert;75012;Paris;FR;coralie.letellier@hotel-palym.com;01 43 43 24 48;477939896.0;;8;9012,68;MD000165FAFRXW
+d872878f-d6e3-4e9e-8ba9-e27307bfb1cf;182.0;HOTEL DE SEVRES;22 Rue de l'Abbé Grégoire;75006;Paris;FR;comptabilite@hoteldesevres.com;01 45 48 84 07;552092686.0;;8;5933,95;MD0005XZT97QK9
+958a7bf1-3ada-43f7-aa4c-0882cfaf0ca9;224.0;HOTEL CHAVANEL - (LES COLLECTIONNEURS);22 Rue Tronchet;75008;Paris;FR;e.antin@fr-alian.com;;;;0;0,0;
+9feb0075-9047-4bf9-b024-90199f8716fc;232.0;HOTEL SEINE WEST;19 Quai de Dion Bouton;92800;Puteaux;FR;manager@seinewesthotel.com;+33 (0)1 42 04 03 04;408455103.0;;4;1226,4;MD000165FY8J09
+fca3edee-ff1a-40d6-8631-c39da9372f12;237.0;HOTEL JACK'S;19 Avenue Stephen Pichon;75013;Paris;FR;m.bonnet@jacks-hotel.com;01 45 85 17 34;315410589.0;;8;4258,35;MD0004QBX60JKF
+87261bf1-baed-4bae-9883-820bb5bcf7a2;238.0;LC LINGUA;171 Route de Nantes;44120;Vertou;FR;contact@lclingua.com;02 28 25 80 36;789245594.0;;1;213,3;
+225c87d8-11ee-4add-b1dc-bf775d9dce4b;239.0;HOTEL ROYAL PICARDIE;138 Avenue du Général Leclerc;80300;Albert;FR;"""reservation@royalpicardie.com, b.belharet@sbgroup.fr""";03 22 75 37 00;;;1;104,4;MD0011ES54AG0C
+278b7c7f-5723-46af-8cf4-57a36c8179ec;240.0;HOTEL DAUMESNIL VINCENNES;50 Avenue de Paris;94300;Vincennes;FR;m.bonnet@hotel-daumesnil.com;;329666770.0;;8;5062,69;MD00019F60MFSD
+5127bbc4-4673-4fc9-afb7-15426edddfd4;243.0;HOTEL LES CARRETTES SDN;1800 Valmeinier 1800;73450;Valmeinier;FR;valmeinier@les-carrettes.com;0479592545;;;1;506,7;MD0001687HXG51
+58011dcb-da18-4d7b-98f6-2f09524eac7e;244.0;HOTEL LE BEFFROI;12 Place Métezeau;28100;Dreux;FR;info@hotel-le-beffroi.fr;;404310690.0;;9;2343,6;MD002QW7FFA3DN
+a6ead712-33b7-482b-991c-09ddc22cbe63;253.0;SNEPAT FO;131 Rue Damrémont;75018;Paris;FR;e.devillechabrolle@snepat-fo.fr;01 53 01 61 34;;;8;7171,5;MD0016NF4CDS4B
+6351c797-611e-4dc9-bb52-db47587f98b9;263.0;HOTEL LUMIERES;110 Rue Damrémont;75018;Paris;FR;direction@hotel-lumieres.com;01 42 64 25 75;384110730.0;;1;487,8;MD002B52NCQBD6
+b28a5f35-8a39-4127-9982-86cf5830d7e5;268.0;HOTEL LE COURS;10 Avenue François Griffeuille;30800;Saint-Gilles;FR;hotel-le-cours@wanadoo.fr;04 66 87 31 93;331828509.0;;1;122,4;MD000165GKJMEN
+2064e1cc-6ad1-43ef-92b4-609b3a198099;275.0;HOTEL CHATEAU DES REYNATS;15 Avenue des Reynats;24650;Chancelade;FR;direction@chateau-hotel-perigord.com;05 53 03 53 59;378721245.0;;0;0,0;MD000165GT6KXP
+fb6b5156-9f73-46bf-b0eb-6e1c5689937f;276.0;HOTEL ARINIZ;8 Boulevard Hébert;35400;Saint-Malo;FR;"""comptabilite.hotels@hvlm.fr, contact@ariniz.com""";02 99 56 01 19;491799383.0;;1;122,4;MD00050TQ07HYJ
+4b2658c3-e5cc-464f-9475-7c76ca3ab1a2;278.0;HOTEL LE COUSTURE;40 Boulevard Lazare Carnot;31000;Toulouse;FR;virginie.chauffour@groupe-spjm.fr;05 34 40 29 00;807957865.0;;1;234,0;MD000165GXEG8J
+01928abb-4839-4bb5-b77e-a55c1a58647c;296.0;HOTEL MARGUERITE - SAS MARGUERITE;14 Place du Vieux Marché;45000;Orléans;FR;reservation@hotel-marguerite.fr;02 38 53 74 32;908130487.0;;2;360,0;MD001FJ0WBPVKC
+ed2465f3-7805-461f-8d99-0ea852cf2616;305.0;BW HOTEL AURELIA MAUSSANE LES ALPILLES;124 Avenue de la Vallée des Baux;13520;Maussane-les-Alpilles;FR;dir@bestwestern-aurelia.com;04 90 54 22 54;523446532.0;;1;122,4;MD000165HB411T
+32c02f47-eeb9-4c44-a5e3-6f6b293dbd12;309.0;HOTEL NOUVEL HOTEL - RESTAURANT;8 Avenue du Docteur Pierre Noal;61140;Bagnoles-de-l'Orne-Normandie;FR;nouvel.hotel@wanadoo.fr;;;;0;0,0;
+7a89ab9f-7501-4a1b-a741-5ff9edb7b834;316.0;BW PLUS HOTEL D'ANGLETERRE BOURGES;1 Place des Quatre Piliers;18000;Bourges;FR;93478-gm@gest-hotel.fr;0248246851;;;3;308,4;MD000165HNA22N
+ca6c0fe4-885c-49be-b2bd-88442fe388a0;318.0;HOTEL B SQUARE - BATIGNOLLES VILLIERS;11 Rue des Batignolles;75017;Paris;FR;contact@bsquare.fr;01 45 22 50 58;642007371.0;;0;0,0;
+a7f0c269-cc7f-479d-a78b-78e78da5fc39;319.0;HOTEL FAMILY RESORT;D213;73130;Saint-François-Longchamp;FR;contact@familyresort.fr;04 79 59 12 27;533503025.0;;1;234,0;MD0003FTB6NVM9
+f5547977-edfe-4c33-9234-5db289b6a4ea;323.0;MELANOME AMESA;58 Boulevard Gustave Roch;44200;Nantes;FR;;;;;0;0,0;
+c515dfbf-38ad-4a9b-b4d5-888fa43d83d3;325.0;BW HOTEL DES THERMES;Rue du Lamparo;34540;Balaruc-les-Bains;FR;bw@hoteldesthermes.co;04 30 17 30 00;534345574.0;;1;360,0;MD0013C8BE5NN6
+62878d25-2fad-48b6-91bd-eee490998dec;327.0;HOTEL DE LA ROTONDE;15 Avenue des Belges;13090;Aix-en-Provence;FR;kirchner@hotel-rotonde.com;04 42 26 29 88;413628165.0;;4;560,4;MD002W3YVEXRZ0
+4825464f-f4ff-43d0-b053-ff5fbf8b4f63;334.0;BW HOTEL PARIS MEUDON HERMITAGE - CNB;3 Route du Colonel Marcel Moraine;92360;Meudon;FR;"""comptabilite@parismeudonermitage.com, nathalie.pastour@leshodacieux.com""";;384410478.0;;4;3513,6;MD000165J139KR
+311fdc53-672c-4047-9dac-1d3365543fa5;344.0;HOTEL LA MARE O POISSON;68 Rue Émile Herbline;14150;Ouistreham;FR;info@lamareopoissons.fr;;497624239.0;;1;216,0;
+7b154970-f96c-4344-bda7-5c599aac29d3;347.0;DELHAY DECOR;3 Sente des Jardins;77860;Saint-Germain-sur-Morin;FR;delhay.veronique@wanadoo.fr;01 60 43 12 88;;;0;0,0;
+e71766b2-ecb4-4242-95f9-7b0d7365fc21;348.0;HOTEL RESTAURANT L'AMANDIER;14 Avenue Pablo Picasso;92000;Nanterre;FR;contact@hotelamandier.fr;01 47 29 10 77;333204642.0;;7;3682,64;MD0001T9HFY9CK
+b4e2a8c5-14f0-48cf-b504-3fb84fd355eb;352.0;SGH PARIS SACLAY - BW PLUS;Rue d'Orsay, D446 & Route d'Orsay, D446;91400;Saclay;FR;"""nathalie.pastour@leshodacieux.com, poncetnatacha@hotels-meudon-saclay.com""";01 69 35 43 21;410529994.0;;4;5246,4;MD000QKRC0YKM9
+f36e8c04-07aa-4431-a717-4e714b160da2;;RETICULAR PROJET;19 Avenue Parmentier;75011;Paris;FR;lmuller@reticularproject.com;;809891260.0;;2;4656,0;
+86fab499-4d64-4bc1-b050-410f7b62e542;359.0;HOTEL SIMONE - SNC BGR;16 Rue Hélène Vagliano;06400;Cannes;FR;pj@groupecible.com;;;;0;0,0;
+7eadd756-9341-4129-ad6e-7315bf7a6a18;360.0;HOTEL ANGLETERRE MONTMARTRE;6 Rue Bervic;75018;Paris;FR;angleterre.hotel@free.fr;+33 9 50 00 33 06;318275468.0;;0;0,0;
+3daf0d55-0fbb-4e8b-a0f7-ed34e97eda4b;364.0;HOTEL LILIUM MARIS;Plage de Tizzano;20100;Sartène;FR;direction@lilium-maris.com;04 95 77 12 20;449600295.0;;1;122,4;MD00126J950WVF
+271f390e-5e5c-460b-867e-01822bd542d5;366.0;CENTRE CULTUREL JEAN VILAR;44 Allée des Épines;78160;Marly-le-Roi;FR;marieclaire.noghero@ccjeanvilar.fr;;325167443.0;;0;0,0;
+b0d68e86-5375-481e-978c-88441e69e831;;HOTEL DE L'EUROPE ( URBAN STYLES DE L' EUROPE );87 Rue Aux Ours;76000;Rouen;FR;compta.eu@h-europe.fr;+33 (0)2 32 76 17 76;;;4;480,0;MD002Y20CDJTDZ
+c0959da7-6a68-4f08-9f50-5dfbcce3b628;368.0;HOTEL OPERA DEAUVILLE;40 Rue d'Amsterdam;75009;Paris;FR;carinemordefroy@orange.fr;+33 (0)2 32 76 17 76;343298006.0;;4;1176,0;
+0cd43cb0-053c-42c1-a684-96a364862b57;369.0;HOTEL DANEMARK;21 Rue Vavin;75006;Paris;FR;jeannurit@orange.fr;01 43 26 93 78;562089813.0;;1;216,0;
+ca2bb25a-2eed-4965-ad49-49266d265b93;371.0;HOTEL SAINT CYR ETOILE;101 Avenue des Ternes;75017;Paris;FR;"""audit.c.h.r@wanadoo.fr, lindsey.morvany@cabfroment.fr, hotelsaintcyretoile@orange.fr""";01 45 74 87 42;424367761.0;;8;4340,13;MD0002XZJ5TAZW
+c3c10dc4-d64c-4aef-afca-bb81192dce85;378.0;HOTEL ALIXIA;82 Avenue du Général Leclerc;92340;Bourg-la-Reine;FR;direction@quartierlatinpantheon.com;01 46 60 56 56;353257090.0;;0;0,0;MD0003BEY8Q281
+1b7a0d69-61b6-46fb-9aa5-74740ebce6a9;379.0;SAS 12 LOUVOIS - HOTEL SQUARE LOUVOIS;12 Rue de Louvois;75002;Paris;FR;mkghotel@assas-am.com;01 86 95 02 02;793532169.0;;1;342,0;
+25c2032e-f87f-43e4-9adb-f76980951656;380.0;HOTEL VIC EIFFEL;92 Boulevard Garibaldi;75015;Paris;FR;direction@viceiffel.com;01 53 86 83 83;434654679.0;;8;4516,24;MD00045DZ721FH
+a55d2c5f-09a8-4752-afa0-d2f41f7714e6;384.0;CAP VACANCIEL - HOTEL LES JARDINS DE SAINTE-MAXIME;42 Avenue des Langories;26000;Valence;FR;commercial1.max@mileade.com;04 94 55 45 00;388625246.0;;0;0,0;
+f9e98b17-908f-458d-849f-a5b800710749;385.0;SAS AMH 3 - ARAUCARIA HOTEL & SPA;72bis Descente des Périades;74400;Chamonix-Mont-Blanc;FR;contact@araucaria-hotel.com;04 79 09 20 20;820506400.0;;0;0,0;
+71d20817-d12b-45f7-955b-b01234834d28;386.0;MY MAISON IN PARIS;4 Rue Quentin Bauchart;75008;Paris;FR;"""finance@mymaisoninparis.com, charlotte.milochevitch@mymaisoninparis.com, paulin.huguenot@mymaisoninparis.com""";06 03 48 42 05;827782111.0;;9;9981,94;MD0006A9K0RYSD
+e44cbd80-a6ba-4660-81ca-dc0df6051748;387.0;HOTEL ARAWAK BEACH RESORT;41 Rue Pointe de la Verdure;97190;Le Gosier;FR;laurent.p@manioukani.com;;823663778.0;;8;3905,47;MD0010VV00ZN76
+82906524-0f39-45ef-9182-30c2579d3410;390.0;SAS AMH2 - ROCKYPOP HOTEL;72bis Descente des Périades;74400;Chamonix-Mont-Blanc;FR;web.chamonix@rockypop.com;;;;0;0,0;
+f0a843f1-d1b5-46d1-93f2-500e2de12e37;393.0;HOTEL SEVRES SAINT GERMAIN;22 Rue Saint-Placide;75006;Paris;FR;direction@hssg.fr;01 45 48 10 67;562097956.0;;8;4135,21;MD0007637628NG
+9bd4e83f-8162-4bb9-9231-1b529d885810;394.0;HOTEL EUGENIE;Rue Saint-André des Arts;75006;Paris;FR;eugenie.hotel@wanadoo.fr;01 43 26 29 03;642007306.0;;10;5392,16;MD0027M4HA7MKX
+ceb4bccf-538f-406b-86aa-f41e131dc033;395.0;HOTEL DU CHEMIN VERT;97 Rue du Chemin Vert;75011;Paris;FR;contact@hotelducheminvertparis.com;01 43 38 31 31;;;4;504,0;MD0027GNKCMPSZ
+cb7e7e4e-e139-4f54-bee3-902b3f3f271a;396.0;ASSAS HOTEL;72bis Descente des Périades;74400;Chamonix-Mont-Blanc;FR;"""gb@assas-am.com, mkghotel@assas-am.com""";;752765537.0;;1;342,0;
+92861c7d-b079-4c47-80e4-db4b1f498961;407.0;MAISON VAUBAN SAINT MALO;8 Rue Toullier;35400;Saint-Malo;FR;contact@lamaisonvauban.com;02 99 40 07 30;879029718.0;;2;720,0;MD000P25A5VPJG
+0d0b7e72-8435-41ec-8ea6-c9271dcde28d;410.0;HOTEL FRANCE ALBION;1 Rue Notre-Dame de Lorette;75009;Paris;FR;"""francelabion@hotel-skipper.fr, fabienne@hotelsparis9.com""";01 45 26 00 81;443434279.0;FR35443434279;8;4650,45;MD0006EH037SZ9
+72da872b-ec08-4631-b6b9-e05d10a9b465;411.0;HOTEL HELUSSI;22Bis Rue Marie-Éléonore de Bellefond;75009;Paris;FR;"""fabienne@hotelsparis9.com, helussi@hotel-skipper.fr""";01 82 83 20 20;784384356.0;FR10784384356;8;4354,48;MD0006EGZH4WD3
+fa2fc59f-f2f6-46a9-83f9-3e218b15eacf;415.0;HOTEL ROYAL MADELEINE;29 Rue de l'Arcade;75008;Paris;FR;"""comptabilite@royalmadeleine.com, direction@royalmadeleine.com""";0184257000;572090769.0;FR06572090769;5;4651,7;MD00128HP55TDP
+e5be2f5e-463c-4b73-9daf-34788f5bba42;416.0;VILLA FLORENTINE;25 Montée Saint-Barthélemy;69005;Lyon;FR;aganamet@arteloge.com;04 72 56 56 56;;;8;4507,18;MD0006XWDCG0JR
+d2c06697-1cb3-4096-9761-3a54d3635b6d;417.0;HOTEL LYON METROPOLE;85 Quai Joseph Gillet;69004;Lyon;FR;aganamet@arteloge.com;;327388492.0;FR39327388492;8;5300,86;MD0006XWCEFGSD
+d088dae2-1978-4b3a-b42a-e0620aaf639a;418.0;HOTEL PARKEST;7 Impasse Louis de Broglie;69740;Genas;FR;aganamet@arteloge.com;04 27 02 70 04;801828310.0;;8;2959,36;MD0006XWAGB5SV
+3f483576-c105-4e47-8806-b2e75e8386e7;419.0;HOTEL PARKSAONE;26 Rue Félix Mangini;69009;Lyon;FR;aganamet@arteloge.com;04 72 22 00 00;810276717.0;;8;3484,73;MD0006XWFDX54G
+0c4bca3b-6bf5-47a8-86d8-5bd9acf45f47;420.0;HOTEL LYON OUEST;50 Quai Paul Sédallian;69009;Lyon;FR;aganamet@arteloge.com;04 72 66 01 01;529862336.0;FR05529862336;8;2939,52;MD0006XWDRKHNF
+ca6fc960-bfc9-4b1f-8783-c7aee318542f;421.0;HOTEL DES CONGRES;Place du Commandant Rivière;69100;Villeurbanne;FR;aganamet@arteloge.com;04 72 69 16 16;350162657.0;FR02350162657;8;3820,78;MD0006XWEJTTQD
+95640920-2800-421b-aa53-8335cef9fae9;422.0;SPA LYON PLAGE;84 Quai Joseph Gillet;69004;Lyon;FR;aganamet@arteloge.com;04 72 10 44 34;955509328.0;;4;379,2;MD0006XWBAPP3W
+c630b099-94f1-4ca0-9437-f0ffbad6a025;424.0;GRAND HOTEL SENIA;6 Rue du Bas Marin;94310;Orly;FR;"""s.najib@grandhotelsenia.com, h.louz@grandhotelsenia.com""";01 46 87 31 30;439286972.0;;1;164,7;MD0007E14S3020
+4f532e44-a93d-427c-9b03-79f0d878af73;425.0;SAS AMH4 - HOTEL ST-ALBAN;72 Descente des Périades;74400;Chamonix-Mont-Blanc;FR;web@saint-alban.com;;822766184.0;;1;342,0;
+ddb538d1-379c-491a-bf95-d32ce14183c3;426.0;PARIS APPARTEMENTS SERVICES;20 Rue Bachaumont;75002;Paris;FR;"""bp@paris-apts.com, alexandre@paris-apts.com""";01 40 28 01 28;392655858.0;;2;2232,0;
+77137ed4-00c8-4f8a-9d4e-2479708445db;427.0;HOTEL ROYAL MANSART;1 Rue Mansart;75009;Paris;FR;sandrabessaa@yahoo.fr;01 48 74 63 30;400597449.0;;1;122,4;MD00086M5KE7J0
+342f4952-8a58-4852-adab-50e05b538d3a;429.0;HOTEL DES DEUX AVENUES;38 Rue Poncelet;75017;Paris;FR;hotel-des-deux-avenues@wanadoo.fr;01 42 27 44 35;;;1;360,0;MD0007QCNP8NA9
+1f2a1889-d179-439f-894f-2dc3546b4884;432.0;HOTEL ARC PARIS PORTE D'ORLEANS;11 Rue Gabriel Péri;92120;Montrouge;FR;direction@hotelarcparismontrouge.com;01 42 53 02 55;552145765.0;;4;648,0;MD0011NBW4FP7F
+2a6dfd0f-40d0-4923-a0de-d149cecb58d9;435.0;RESIDENCE WILSON;1 Avenue Wilson;63240;Le Mont-Dore;FR;castelet.ad@orange.fr;04 73 65 05 29;;;4;523,2;MD0008DYZPQYD7
+1d6ef83c-d7a0-48bc-a1d7-09f8f899429a;436.0;HOTEL LA DESIRADE;Le Petit Cosquet;56360;Bangor;FR;direction@hotel-la-desirade.com;+33297317070;480008135.0;;5;1628,1;MD000K6YQZAJHE
+f841718e-ad9d-413a-b734-040b49473bee;437.0;CAFE DE PARIS;3 Rue de l'Échelle;75001;Paris;FR;lemedova@orange.fr;01 42 60 84 26;;;1;410,4;MD0010RT8FDFW2
+55673078-0ebf-4d6a-848d-6779f26ec34f;438.0;HOTEL RELAIS DE POSTE;2 Rue Molière;13200;Arles;FR;"""pj@groupecible.com, comptafournisseurs@groupecible.com, ap@groupecible.com""";04 90 52 05 76;814210845.0;;1;396,0;MD000H1PHG9KC5
+e925e5d5-7157-44bc-ad74-5742e07150d0;441.0;HOTEL COURSEINE;18 Avenue Marceau;92400;Courbevoie;FR;direction@courseine.com;01 43 33 57 04;434355038.0;;2;280,8;
+358bb146-85f8-49b8-bf24-a72cc6397edf;447.0;SAS AMH - RESTAURANT AKASHON;50 Place de l'Aiguille du Midi;74400;Chamonix-Mont-Blanc;FR;mkghotel@assas-am.com;;434372819.0;;1;342,0;
+e5b9278a-72bc-4290-b05e-4d4cee845aa5;448.0;HOTEL DU BEAUMONT;3 Rue Lepic;75018;Paris;FR;hotel@dubeaumont.com;01 77 62 85 55;326193596.0;;1;348,3;MD000D4K8V3EQB
+a74a9489-5424-431e-b02a-c5b2b8cf636e;450.0;HOTEL LE LONCA;Route de la Marine;20150;Ôta;FR;hotel.lelonca@wanadoo.fr;;422656637.0;;3;828,0;MD000B25XHV6NR
+e8b08ef7-6f72-4497-844d-2ac9b703bdc6;452.0;HOTEL BORONALI;65 Rue de Clignancourt;75018;Paris;FR;"""direction@hotel-boronali.com, maylis@che-im.com""";01 46 06 41 52;722050796.0;;1;140,4;MD002MRT7MFQNM
+9ee5eaad-e71a-4d60-a7d7-a0e463e9269f;453.0;HBB SAS - HOTEL OHLALA !;32 Rue de Bagnolet;75020;Paris;FR;mkghotel@assas-am.com;;834944985.0;;1;342,0;
+22ef27d5-b3d4-4771-a5e3-c072d87e672d;454.0;HOTEL L'HELIOPIC SWEET & SPA;50 Place de l'Aiguille du Midi;74400;Chamonix-Mont-Blanc;FR;mkghotel@assas-am.com;;;;0;0,0;
+6ff1cb8f-0683-4f6d-9a1b-2e8c2193e864;456.0;HOTEL SAINT GERMAIN;88 Rue du Bac;75007;Paris;FR;manager@parishotelsg.com;01 49 54 70 00;434372819.0;;4;885,6;MD000R55H5XZZS
+4cb734d6-c754-47f2-bc75-db8d49b12990;458.0;HOTEL DE L'OCEAN BIARRITZ;9 Place Sainte-Eugénie;64200;Biarritz;FR;"""direction.hotelocean@gmail.com, contact.hotelocean@gmail.com""";;840831150.0;;4;368,4;MD000P8BRJEBBK
+1f689700-21ea-4b68-b9e0-075d91beb73e;460.0;RESTAURANT LE CAFE NOIR;16 Place Duclos;22100;Dinan;FR;lecafenoir22@gmail.com;;493197735.0;;1;252,0;
+299764a3-eae1-4fa3-b877-d68a5fa29b22;461.0;HOTEL LE PTIT CHAM;Route du Sancy;63240;Le Mont-Dore;FR;contact@lepetitcham.com;04 73 65 22 33;818747032.0;;4;192,0;MD000D1T60HGF0
+3b3380bf-4aa0-4f83-baa6-f228b1251c8b;463.0;GRAND HOTEL MONTABO;Chemin Hilaire;97300;Cayenne;FR;g.benjaka@grandhotelmontabo.fr;0594303888;325315281.0;;7;3045,16;MD000DY7SWRRCV
+6983182e-d4cd-4a32-b740-ee464e2b1909;467.0;HOTEL EPI - SARL LEVANT;400 Avenue de l'Europe;28230;Épernon;FR;"""levent.akdogan@live.fr, contact@epi-hotel.com""";02 37 18 01 01;501244453.0;;5;460,2;MD000FG4DHSZGW
+1c6c6c0a-5b35-4648-938d-87ab41e70c10;468.0;RESIDENCE LE PARC;2 Rue Jean Novel;69006;Lyon;FR;contact@residence-leparc.com;04 78 94 03 64;379907124.0;;1;474,0;MD000FG66XMVZB
+87df3770-bfd1-470d-888d-6eb8ead2fbf6;470.0;HOTEL DE LA TOUR DE NESLE;2 Quai Louis Durand;17000;La Rochelle;FR;comptafournisseurs@groupecible.com;;849405550.0;;1;396,0;MD000P07WGC1Z4
+13fcea22-d507-477d-905a-59a8a20b0278;472.0;HOTEL EDGAR ST BRIEUC (SAINT BRIEUC HOTEL);15 Rue Jouallan;22000;Saint-Brieuc;FR;compta@hotel-edgar.fr;+33296602727;501599278.0;FR83501599278;4;1573,2;
+f183129f-2104-449e-9be0-3f34e15fb516;473.0;CHATEAU DE BOSSEY;2 Chemin Chenevière;1299;Bogis-Bossey;CH;geraldine.rambaud@wcc-coe.org;;;;1;300,0;
+2e1f3bbe-b8d9-4a11-b771-9261bfe16dbf;476.0;MAISON BARBILLON (EX HOTEL INSTITUT GRENOBLE);10 Rue Barbillon;38000;Grenoble;FR;mkghotel@assas-am.com;;;;1;342,0;
+b8d456e5-bf66-4999-b3c6-0933c3d1a380;477.0;HOTEL MARIELLE;327 Rue du Soleil;73440;Les Belleville;FR;mkghotel@assas-am.com;04 85 30 20 05;;;0;0,0;
+5fa2bd0d-f145-40c3-8322-1d1a264115e8;480.0;HOTEL LE GALION;Impasse Fontaines Gicquel;22520;Binic-Étables-sur-Mer;FR;jpetiot@brithotel-binic.com;02 96 32 37 80;;;4;456,0;MD001AMDFD7P46
+68c3666c-c451-4765-948f-d66f48fbc232;482.0;SASU RESTAURANT LE CANCAN;3 Rue de Douai;75009;Paris;FR;lecancanpigalle@gmail.com;06 18 89 54 04;;;2;288,0;MD000ZG2S435J0
+9698c74a-6f6c-41f5-b4c2-e5fa461f43d7;483.0;TY TOMM - HOTEL LE CLOS FLEURI;Route de Sauzon, D30 & Impasse de Bellevue;56360;Le Palais;FR;"""leclosfleuri.belleile@gmail.com, reception@hotel-leclosfleuri.com""";02 97 31 45 45;;;7;2058,36;MD000YNGHSD9XK
+5a718d42-0f54-4c06-81af-a825266b43fb;484.0;HOTEL SAN LUCIANU;Moriani Plage;20230;San-Nicolao, San-Giovanni-di-Moriani, Santa-Lucia-di-Moriani, Santa-Reparata-di-Moriani, San-Giuliano, Linguizzetta, Talasani, Poggio-Mezzana, Taglio-Isolaccio, Canale-di-Verde, Chiatra, Pietra-di-Verde, Pero-Casevecchie, Velone-Orneto;FR;"""objectifhotel@gmail.com, dlucchetti@wanadoo.fr""";0495587210;345004782.0;FR11345004782;3;2339,49;MD000RAVK9B2VP
+2672537d-821f-473f-9836-6344e8ea9deb;;COTE SUN;30 Rue Jacob;97400;Saint-Denis;FR;"""comptabilite@cotesunhotels.com, mboullery@gmail.com""";+262 (0) 692 340 751;480583772.0;;1;97,65;MD0012F0TYE2MB
+624f7cbf-c661-40a2-95ac-df0d9d9bd535;486.0;HCCB - HOTELS DE CHARME;11 Rue Louis Kérautret-Botmel;35000;Rennes;FR;contact@hotelscharmebretagne.com;02 30 96 32 94;534923339.0;;3;4176,0;
+0b80b46d-2254-4e80-9321-f7f6063648ec;487.0;RESIDENCE LE PRE PARC;2 Rue des Émeraudes;69006;Lyon;FR;residence-preparc@outlook.fr;04 78 24 35 70;;;1;324,0;MD000P2A7W5GGE
+5aa68046-8c55-4001-99f1-f230568b0652;489.0;HOTEL RESTAURANT LE GOYEN;Place Jean Simon;29770;Audierne;FR;s.vervoitte.legoyen@wanadoo.fr;02 98 70 08 88;452215643.0;;4;2136,33;MD000WN64DYZM7
+da39a084-9e03-4350-a7c3-5a2572596188;491.0;HOTEL LE SAINT PIERRE;51 Avenue des Indes;97410;Saint-Pierre;FR;direction@hotellesaintpierre.fr;;790104327.0;;0;0,0;MD000TZFMRQVSR
+2b078c89-ea5e-4a29-97c3-826a90eea891;495.0;CSE UES LEO LAGRANGE;150 Rue des Poissonniers;75018;Paris;FR;"""tresorerie@cse-uesleolagrange.fr, secretariat@cse-uesleolagrange.fr""";;;;0;0,0;
+c0e72f30-8264-4742-b8a0-922b6e7b3ca7;501.0;HOTEL LE CLOS MEDICIS;56 Rue Monsieur le Prince;75006;Paris;FR;"""direction@closmedicis.com, ophelie@figestel.fr, sebastien.francois@figestel.fr, houman@figestel.fr""";0143291080;;;7;7661,97;MD00238Z8JK8JQ
+0b2ae4ea-5260-4d2c-9318-e1f4f30590e0;502.0;HOTEL LES FONTAINES DU LUXEMBOURG;56 Rue de Vaugirard;75006;Paris;FR;"""ophelie@figestel.fr, sebastien.francois@figestel.fr, houman@figestel.fr""";;572183648.0;;8;7673,25;MD00238ZG2XA6N
+bba83068-26eb-4709-a4c0-9fabbe9de36d;;SARL CAP NEIGE ( ALPAPART );Chemin de Crouze;73320;Tignes;FR;cindy@intersport-tignes.fr;;;;4;1114,32;MD000T26RFWAHJ
+ab3eece0-9c09-4773-8ccb-25fd23263b26;118.0;UNIFORME PRESTIGE;4 Rue Antoine Roucher;75016;Paris;FR;"""fgarcin@uniformeprestige.com, comptabilite@altelis.com""";01 40 50 71 55;;;8;11629,2;MD000ZJ3BJ5VKH
+f88265d5-d9c1-4310-b5ce-c34589315410;508.0;OLIVIER LEFLAIVE;Place du Monument;21190;Puligny-Montrachet;FR;;;;;0;0,0;
+0a3d011e-26e0-4275-8b7a-7b8bbf79dca4;509.0;NOGENT NAUTIQUE;8 Rue du Port;94130;Nogent-sur-Marne;FR;"""adrien.roudot@nogentnautique.fr, clement.gimeno@nogentnautique.fr""";+33764480826;;FR39884921115;1;6318,0;
+137f9a7d-a518-44da-a392-0b84e02e415b;510.0;HOTEL TERRE SAINTE;2 Rue de Penthièvre;75008;Paris;FR;"""abertetto@becarre.com, facture@leterresainte.re""";+33140607015;;;1;223,78;MD0015BX8SVP51
+211ba963-1844-45cb-97aa-c2aca5663810;512.0;HOTEL LA CITADELLE;1 Place du Marché;56290;Port-Louis;FR;jmpotrel@gmail.com;02 97 82 46 05;490907094.0;;6;7886,48;
+f24b527a-54e2-4eb3-950d-49924d933863;;SEROTEL LUTECE;2 Rue Berthollet;75005;Paris;FR;hsserotel@gmail.com;0143362630;;;0;0,0;
+6f1f275f-6776-4ecf-ae4a-510317832ec0;515.0;VISA TRAVEL ( VTI );116 Rue Lauriston;75116;Paris;FR;laurentcomte@visatravel.fr;+33147041600;;;1;648,0;MD00133WRDSAX0
+89666fef-bf81-4a51-9a40-b89e9bdc8053;518.0;SAS ECOLODGE HOTEL LE LOCARN;Kerhunou;22340;Locarn;FR;comptabilite@lekereden.bzh;+33296574242;;;1;360,0;
+260f2182-417b-4350-8e36-6ed4aefc241f;519.0;ELIXIR DESIGN;4 AVENUE DU GENERAL LECLERC;92100;BOULOGNE-BILLANCOURT;FR;isabelle@elixirdesign.fr;+33155394030;434536058.0;FR63434536058;2;520,8;
+3c2df5d7-8d54-42d0-8b37-48a6cdf5ec9a;520.0;CHRISTINE MORTAMAIS;17 Rue de Poissy;78100;Saint-Germain-en-Laye;FR;christinemortamais@gmail.com;0660948222;;;2;360,0;MD0011VP54HNBN
+3839c6e2-4934-43cf-a619-cd57484fda23;524.0;HOTEL BEST WESTERN PLUS - SAS SOCIETE HOTELIERE DU VAL FLEURI (ESPRIT LIBRE);Allée Des Vergers;95700;Roissy-en-France;FR;"""poncetnatacha@hotels-meudon-saclay.com, nathalie.pastour@leshodacieux.com""";01 34 29 02 13;604376728.0;;4;3619,2;MD0012XTNVTPH2
+e820dd2c-9258-4114-b0ba-5b39f89e5f75;525.0;HOTEL NEUILLY PARK;23 Rue Madeleine Michelis;92200;Neuilly-sur-Seine;FR;hotel@neuillypark.com;0146401115;339605289.0;;1;180,0;MD0012WNDBB2MS
+0cf3037d-33b5-4e19-8726-e55173f82517;526.0;DE FERLA IMMOBILIER;220 AVENUE DU MAINE;75014;PARIS;FR;d.adler@deferla.com;+33153904900;537538969.0;FR67537538969;1;842,4;MD002BV65JESGK
+ede62a20-54e2-4700-8b7b-6f5d497b1563;527.0;SEVEN URBAN SUITES;10 Rue Konrad Adenauer;44200;Nantes;FR;amelie.joubioux@7urbansuites.fr;0251729700;519664197.0;;2;280,8;MD0012YNYZWGYR
+7decf13f-cb04-4eca-8279-83840f705e89;528.0;HOTEL RIVIERA COLLECTION NICE;36 Rue Rossini;06000;Nice;FR;"""comptasiege@gmail.com, b.pluchart@hotelrivieracollection.com""";+33493888594;397489329.0;;3;120,0;MD0016NKYAMT4M
+6071e51c-33c8-4f65-b5da-a84a0dcf6672;529.0;LES COTES DENALI;Route de la Ferme;73320;Tignes;FR;cindy@intersport-tignes.fr;;;;3;565,2;MD001D0YAF06N6
+37d751ca-2ae4-4af9-9298-ec7ebe9009f4;532.0;HOTEL BEST WESTERN PLUS THIONVILLE;9 Allée Raymond Poincaré;57100;Thionville;FR;manager.thionville@kyriadprestige.fr;0382503467;;;1;1418,4;MD001K0F3WWYTC
+fd953fbf-be14-4aaf-b780-52d6757a10c4;536.0;HOTEL DE VARENNE;44 Rue de Bourgogne;75007;Paris;FR;"""varennehotel@gmail.com, direction@hoteldevarenne.fr""";;;;2;1152,0;MD0028DBER6CS7
+66e18ca9-168c-49ce-b5ee-de8be9bb39b4;537.0;LE CLOS DES VIGNES;11 rue des vignes;60119;Neuville-Bosc;FR;alex@vignesinvest.fr;03 44 22 36 90;;;0;0,0;
+bbd47512-4fa3-4325-bc2d-c4865f9aa62b;538.0;DESTINATION BELLE - ILE;Route de Sauzon;56360;Le Palais;FR;thibaut.jousselin1992@gmail.com;+33678535372;883748006.0;;2;360,0;MD0017MMAYG3Y6
+d9656b24-4a7d-4250-b951-907ec68cd9e0;539.0;SCHERVIO SAS - HOTEL LE MILAN;39 Boulevard de la Grotte;65100;Lourdes;FR;contact@hotel-le-milan.fr;+33562944113;;;1;384,3;MD0035R8KEKMQQ
+5f5810d1-963f-429e-8f01-2e8dd646b28a;540.0;SAMARKAND;14bis Rue Marbeuf;75008;Paris;FR;audrey@samarkand-paris.fr;0147202595;;;2;-1508,4;MD0019BPS8T5P5
+607fb77c-cce7-4cdc-a7de-91001741175e;543.0;HOTEL DE BRETAGNE - BIGOUDEN MAKERS;4 Rue du Port;29740;Plobannalec-Lesconil;FR;"""bigoudenmakers@gmail.com, lena@bigoudenmakers.com""";;;;1;1015,2;MD001G1RDSRWBV
+0f617fbd-5e55-4b7f-ab81-5dc6f159f96c;544.0;CHATEAU DES FONTANGES;Route du Château;12850;Onet-le-Château;FR;communication@chateaudefontanges.com;+33565777600;;;4;1012,8;
+9ce6619e-081d-4be3-9bb9-ad1e7b6d84b0;545.0;LE BOUTIQUE HOTEL BORDEAUX (SARL CALMA);3 Rue Lafaurie de Monbadon;33000;Bordeaux;FR;f.martin@le-bhc.com;;;FR50533000980;8;5132,19;MD001H8NFD2NS9
+fa198e1c-495f-434f-bef8-9dca7c7f3bbb;546.0;EXPLORHOME SARL CNN;280 Chemin des Roches Labatie d'Andaure;07570;Auvergne;FR;lou.breziat@icloud.com;;;;2;1975,2;MD001S8MDKH9Q7
+3b66cea1-8742-4a69-913d-6d4464f8e402;547.0;ACAD EQUIPEMENT;125 Avenue Louis Roche;92230;Gennevilliers;FR;bbouchard@acad-equipement.fr;0629688838;810316034.0;;1;540,0;
+e680f004-64f3-4d05-b61b-5551587744ac;548.0;LES OPTICIENS DU MONT JOLY;58 Rue du Commerce;74700;Sallanches;FR;"""pa@montjoly.net, romain@montjoly.net""";;;;1;403,2;MD002394ZZVWM1
+284ae748-1a72-4977-b0e0-a1911f6321bd;549.0;SARL CGE (DE FERLA);53 Rue Daguerre;75014;Paris;FR;d.adler@deferla.com;;;;0;0,0;
+4f60e2e1-6ab2-49fc-8774-8359f1fa4c97;550.0;CHATEAU DE SAINT PATERNE;4 Rue de la Gaieté;72610;Saint-Paterne-Le Chevain;FR;chateaudesaintpaterne@gmail.com;0233275471;;;2;252,0;MD001E5CSGAW69
+167fe450-ec7f-4a17-b3e2-60edb301eaff;551.0;SAS PHENKO CONSULTING;149 Avenue du Maine;75014;Paris;FR;"""gregory.sourisseau@gmail.com, milenaphenko@gmail.com""";+33627044427;;;1;154,8;
+1e0a5018-8429-401e-919d-df96baaaed98;552.0;HOTEL LE SAINT GERVAIS;Rue du Mont Lachat;74170;Saint-Gervais-les-Bains;FR;nicolas.queval@lesaintgervais.com;06 45 93 85 37;898993572.0;;1;507,6;MD001W2NVHKRHQ
+814e1c48-3fab-4c1c-bf8e-1a6feaaa2088;555.0;LE 10 HONFLEUR;10 Rue Jean Doublet;14600;Honfleur;FR;mlbardcurt@hotmail.fr;;450742390.0;;3;2001,6;MD001JVQ8HGE71
+60ebccc5-e036-41b9-a666-a146b2a77c33;556.0;PLURIEL HOTELS;12 Rue de l'Industrie;34880;Lavérune;FR;communication@hfm-hotels.com;;803026863.0;;0;0,0;
+829369c8-37be-44d7-8769-390c7104ba94;557.0;HOTEL L'INITIAL;1 Rue de Boudeville;31100;Toulouse;FR;"""direction@linitial-hotel.com, comptabilite@pluriel-hotels.com, f.manna@linitial-hotel.com""";+33499923875;832321202.0;;6;1117,2;
+898d0113-d37c-4ee4-98a1-42976ecf7c49;558.0;HOTEL LE BOIS D'IMBERT;Route de Lacave;46500;Rocamadour;FR;"""nanotel-ivy8imae@suppliers.pennylane.com, sabrina.beal@3vhotels.com""";;;;6;1262,4;
+a3173a70-4be2-46fd-93aa-62579ddb15dc;559.0;LE PALAIS GALLIEN;144 Rue de l'Abbé de l'Épée;33000;Bordeaux;FR;f.martin@le-bhc.com;+33607409617;833706211.0;;5;4262,55;MD001H8HJV3GTJ
+535c69f3-e6f0-47e4-b625-e2397ef33af1;561.0;HOTEL DE LA PORTE DOREE;273 Avenue Daumesnil;75012;Paris;FR;direction@hoteldelaportedoree.com;;428113401.0;;6;4402,22;MD0027358E8E49
+536141cc-8a3f-4890-b6e0-63c1cae1b8e5;563.0;SEROTEL SUITES;77 Rue du Faubourg Poissonnière;75009;Paris;FR;hsserotel@gmail.com;;311261820.0;;1;252,0;
+422a0419-e54f-4623-bc57-97d83031f592;564.0;HOTEL CARDINAL ROUEN;1 Place de la Cathédrale;76000;Rouen;FR;admin@hotelcardinal.fr;02 35 70 24 42;522793736.0;;1;432,0;MD001J1TYBQ2DW
+080f72df-ecdf-44a9-85c4-ecfb19285535;565.0;OMNIVINS;7 Rue Louis Lemarchand;35400;Saint-Malo;FR;cindy@omnivins.bzh;;904937653.0;;1;108,0;
+a02f793c-d419-4f0a-9ba8-5472614ecdcf;566.0;LES TONTONS BOISEURS;50 Allée de Cérès;40230;Saint-Geours-de-Maremne;FR;compta@lestontonsboiseurs.fr;;910043108.0;;2;216,0;
+e65b8ae6-9250-466e-8951-2edbd468acc2;567.0;HOTEL DU CHATEAU DINAN;6 Rue du Château;22100;Dinan;FR;g@postel.me;02 96 85 16 20;751635186.0;;2;540,0;MD001JKRZB17ZT
+bdcfa188-f28b-46b1-90b1-7043be1e817e;569.0;STELLA NOVA;222 Rue des Cades;34980;Saint-Gély-du-Fesc;FR;senda.paruta@stellanova.fr;0788204793;792020240.0;;1;180,0;MD001JCSVE6W83
+edcff128-cdbe-45bf-91a6-e1eff90c7fc9;570.0;OCHJI DI MARE (A FIURASCA);U Frusteru;20110;Propriano;FR;josedigiacomi@gmail.com;+33688261156;;;2;285,6;MD001JX368BXDX
+c6f55014-f032-472e-9430-ecbbc112514a;571.0;UNIC HOTEL;56 Rue du Montparnasse;75014;Paris;FR;"""praynal@ctc-amelot.fr, aghiles.azem@gmail.com""";06 95 59 59 54;;;1;284,4;MD001JPR85KP8P
+e36646e1-eaf5-4717-855d-d59585174f92;572.0;LODGES BALOUROU;6836, Route des plages, Remire-Montjoly;97534;Guyane;FR;baderjulien@gmail.com;0768689455;;;2;852,0;MD001JKQMF32JX
+deffb647-7521-426a-a536-c936ce989059;574.0;VDCN BALARUC - HOTEL DU GOLFE;7 Avenue de Montpellier;34540;Balaruc-les-Bains;FR;legolfe@wanadoo.fr;04 67 48 58 38;891758534.0;;1;302,4;MD0030B0KG3DE9
+49180567-adf6-40ff-a21a-0d7ebf1a060f;575.0;YOUR BORDEAUX HOME;14 Rue Émile Fourcand;33000;Bordeaux;FR;f.martin@le-bhc.com;05 56 48 80 40;894973221.0;;2;1972,8;MD001JR3WWDX89
+848c0ad2-ad23-4d13-acc6-2e85996482fd;576.0;YOUMMAH;4 Square Théodore Judlin;75015;Paris;FR;hamdi.brahmia@icloud.com;0768322666;909130692.0;;1;910,8;MD002AJ8155EGB
+4daadd79-241b-4431-a3fe-54790f2a4c92;577.0;L SPHERE CORPORATE;185 Chaussée de La Hulpe;1170;Bruxelles;BE;"""compta@lsphere.eu, billing@lsphere.eu""";+32495039653;;;1;360,0;MD001K85A3DBK8
+04c3b070-4281-4dfa-aaec-dcb03c3f7eeb;578.0;SAS HOTELIERE RENOIR SAINT GERMAIN;39 Rue du Montparnasse;75014;Paris;FR;"""aghilas.azem@gmail.com, praynal@ctc-amelot.fr""";;440791523.0;;1;284,4;MD001JZ746BB2C
+c347fdfc-019a-4fee-8e9f-732194a041d9;579.0;FEDERATION DES EMPLOYES ET CADRES FORCE OUVRIERE;54 Rue d'Hauteville;75010;Paris;FR;nfaintrenie@fecfo.fr;;784854564.0;;2;864,0;
+c3bbb861-1804-46b7-94cd-6ca3dae30e1d;581.0;MAIRIE DE BUSSY;Place De La Mairie;77600;Bussy-Saint-Georges;FR;"""fabien.jambart@bussy-saint-georges.fr, comptabilite@bussy-saint-georges.fr""";01 64 66 11 20;217700582.0;;0;0,0;
+53894bb8-b5a3-44ee-be6a-5da85bb344b4;582.0;HANK GROUP;55 Rue des Archives;75003;Paris;FR;isabelle@hankrestaurant.com;09 72 44 03 99;830181392.0;;1;464,4;
+45a3a5b7-23bc-4cbc-880d-157b2ca1135b;583.0;VIGNERONS D'ART;Les Closeux;45590, 45640;Sandillon;FR;olivier.jallerat@vigneronsdart.fr;0238410659;449333277.0;;0;0,0;
+217eea2e-4775-4667-b090-c2966c076527;585.0;HOME INVEST;3 Rue Lafaurie de Monbadon;33000;Bordeaux;FR;f.martin@le-bhc.com;;433455094.0;;1;428,4;MD001R95829NQY
+80b40724-17ef-4882-95d6-3bb9b54967a5;587.0;HUMAN INCLUSIVE;5 Avenue de l'Europe;54270;Essey-lès-Nancy;FR;pascal@human-inclusive.fr;;890524747.0;;1;180,0;
+abf8a587-d272-492b-9abb-dd677f9bafc6;589.0;HOTEL PARIS LE SINGULIER;38 Rue Saint-Didier;75116;Paris;FR;"""direction@hotellesingulier.com, nejdechicha@gmail.com""";+33668695780;915388904.0;;6;2923,2;MD001VXPCBH38J
+5371138a-c043-45f5-86e1-d54abd8d73c6;590.0;MAIRIE DE FONTENAY- AUX- ROSES;75 Rue Boucicaut;92260;Fontenay-aux-Roses;FR;"""manon.berruer@fontenay-aux-roses.fr, maguette.seck@fontenay-aux-roses.f""";+33141132149;219200326.0;;0;0,0;
+ed7c3848-cc67-4fa2-8803-562327e45985;591.0;LA VILLA MAURESQUE;1792 Route de la Corniche;83700;Saint-Raphaël;FR;f.martin@le-bhc.com;+33607409617;438112062.0;;5;4780,83;MD001Y7R8G3JPS
+dff0d781-7cc1-4946-81b7-c2c7200d93fd;592.0;PUREE MAISON;5 Rue Lech Walesa;94270;Le Kremlin-Bicêtre;FR;paul@pureemaison.com;;821378056.0;;0;0,0;
+529f319c-cf06-4d1d-8f57-4dd3c5f5baf0;595.0;VILLA ESCUDIER;64 Rue Escudier;92100;Boulogne-Billancourt;FR;direction@villaescudier.com;01 48 25 55 33;378428437.0;;1;360,0;MD001ZYC03MQB9
+b173b93f-b409-41ac-98f3-9dae7fff436f;596.0;HOLDING HOTELIERE BLANCOR (ESTEEM TOUR EIFFEL);9 Rue Ginoux;75015;Paris;FR;"""gestion@kynd-hotels.fr, comptabilite@hotels-esteem.com""";+33642064502;382896041.0;;1;928,8;MD00207Y5F2ZGY
+5e50d94e-c79a-4e73-8017-74752b7561e4;598.0;RT SERVICES;5 Allée Guy Môquet;94170;Le Perreux-sur-Marne;FR;theorichomme@gmail.com;;919453316.0;;0;0,0;MD0020J5646JT1
+92c38c90-151b-4843-8ae3-a6921c5b00db;597.0;HOTEL LE GRAND LARGE;2 Avenue de l'Océan;17550;Dolus-d'Oléron;FR;f.martin@le-bhc.com;+33607409617;716850060.0;FR52716850060;5;4245,02;MD0020D6DEJ5A2
+33154ea7-924a-4f93-941b-f0cfc94d8b9a;613.0;UCOM (DANIXAV);26 Rue Danielle Casanova;75002;Paris;FR;christophe@danixav.com;;531874188.0;;0;0,0;
+313e0578-267e-4427-a55d-ada3bc976546;601.0;DOTLINE;35 Rue Camille Pelletan;92300;Levallois-Perret;FR;julien.mollat@dotline.fr;;442811592.0;;0;0,0;MD0021XMVZ9HAF
+be898acf-f7bd-4d81-b2bc-10de0d0c496c;602.0;HOTEL LONGCHAMPS ELYSEES;68 Rue de Longchamp;75116;Paris;FR;admin@lespalaisdutrocadero.com;+33610130123;562044701.0;;9;3975,39;MD0022M92JR2B7
+4157c15e-758d-4489-a666-7d5b49588d8b;604.0;HOTEL DE DIANE;12 Allée des Acacias;22240;Fréhel;FR;direction@hoteldiane.fr;;351165568.0;;8;2241,6;MD002309CY833X
+73880a43-8594-4c7e-a9a3-e70e24a1cb96;605.0;RIAD DAR KARMA;51, Derb El Mennabah Kasbah;40000;Marrakech;MA;"""marine.girard@assistanceprivee.com, naoualdarkarma@gmail.com""";+33670216974;;;0;0,0;
+b930a89e-5853-4be1-9786-fcf24351e510;606.0;HOTEL MACCHI;94 Chemin de l'Etringa;74390;Châtel;FR;p.macchi@hotelmacchi.com;;302330246.0;;2;243,0;MD002E28SAAZZ7
+6397ed60-365d-4f5f-b97a-e8c5dce319f0;;LES AMIS DE L'ECOLE KOENIG;33 Rue Fondary;75015;Paris;FR;alix@ecolekoening.com;07 66 32 65 98;490149382.0;;0;0,0;
+a3b1cc3b-a441-4b49-832b-f3ed30512fd4;608.0;SCI CAPLEALISA;21 Cours François Palmarole;66000;Perpignan;FR;sud@ffinvest.fr;;524885522.0;;1;158,4;
+016c8c15-d189-4d59-905b-5e1d0d95bc2e;610.0;HOTEL LE BENHUYC - SAS BES;1 Quai Jean Bart;22520;Binic-Étables-sur-Mer;FR;"""vanpoucke.vincent22@outlook.fr, hotel@lebenhuyc.com""";+33676608728;952305233.0;;1;961,2;MD00269X32NNHV
+4b7a7040-b792-4f92-b881-b0df566f6f6c;611.0;HOTEL DES ROCHES & AUBERGE DE L'ILE;1, Place de Galilée;97310;KOUROU;FR;direction@hotel-des-roches.fr;+594694938475;922858618.0;;4;1320,0;MD002VMFRHFDX2
+1628bb00-b7d7-4ac8-844e-4e0efb86f04c;600.0;RESIDENCE LE GRECALE;Vanghina;20131;Pianottoli-Caldarello;FR;contact@legrecale.com;;;;0;0,0;MD0020RPAZ7VDW
+e0e64e23-498b-4739-ba39-0fb4bf7f0e3d;614.0;GITEC MEDICAL;39 Rue de Châteaudun;75009;Paris;FR;"""camiglieri@gmail.com, l.mahjoubi@vnh.f""";+33 1 88 40 74 94;314569963.0;;1;504,0;
+0cb7c687-aaa4-4264-9246-ca10a5260761;616.0;AVENA EVENT;33 Rue du Général Leclerc;92130;Issy-les-Moulineaux;FR;"""laurent.sturtz@avena-event.fr, gwendal.le-bris@avena-event.fr""";;519318463.0;;6;-105,6;
+83c4d92d-a362-42ea-91b2-dc3a73af6996;617.0;IPTIC;4 Rue de la Pierre Levée;75011;Paris;FR;flarrive@iptic.fr;+33633205366;535056220.0;;0;0,0;
+c9dd9d10-55de-4b87-8f79-d019cc3fe697;619.0;CASER'N;40 Boulevard de la Tour d'Auvergne;35000;Rennes;FR;contact@casern.bzh;+33 (0) 2 96 80 86 18;;;4;878,4;
+ddf99b63-142c-4f4f-9c77-7274ae7352a3;620.0;LE CHEVAL BLANC;5 Place Charles Bidault;37150;Bléré;FR;le.cheval.blanc.blere@wanadoo.fr;+33247303014;753772169.0;;1;234,0;MD002Q4E3BFS9J
+cc7b9b89-a182-4dca-8c11-6fb965d433cc;;CLIENTS;;;;;;;818164964.0;FR17818164964;0;0,0;
+9e49f4cd-1059-4499-bc05-2cbf5ef409fa;634.0;ALDERAN;4 AVENUE GEORGES MANDEL;75016;PARIS;FR;la@alderan.fr;;538704479.0;FR38538704479;0;0,0;
+34d4abf5-d853-4a86-a355-d5672df014af;631.0;CANDIDATE FIRST;94 RUE SAINT-LAZARE;75009;PARIS;FR;eric.menard@candidatefirst.fr;;919382390.0;FR03919382390;4;552,0;MD002PSMCKW7WD
+6aacb477-7bd5-48a8-82a5-77cf0814963d;617.0;CINOV;4 AVENUE DU RECTEUR POINCARE;75016;PARIS;FR;mottet@cinov.fr;;488769274.0;FR59488769274;0;0,0;
+1babbcff-0591-4708-af56-8bf0c9172e91;;SAINT-THOMAS ( HOTEL ARCADES );13 AVENUE DU PARADIS;65100;LOURDES;FR;contact@holdingkaracan.fr;;901304345.0;FR23901304345;8;1520,4;MD002SCPP4H010
+68c1a91c-0760-4df3-a385-be013fcc33e9;649.0;AREDIUS PRESTIGE;14 AVENUE DE LA MARNE;92600;ASNIERES-SUR-SEINE;FR;aredius.prestige@free.fr;;892138413.0;FR78892138413;0;0,0;
+48e05a72-8606-43a4-813d-e534908b1e69;624.0;HOTEL LES VAGUES;9 BOULEVARD DE L'OCEAN;33120;ARCACHON;FR;f.martin@le-bhc.com;;345171888.0;FR33345171888;6;4177,2;MD002G3YR3JBDH
+2c6e8302-cf56-458b-bb35-275513306a6f;625.0;MNRG ( HOTEL AUDIERNE - AUBERGE DU CABESTAN );2 RUE LAENNEC;29770;AUDIERNE;FR;egummers@aol.com;;539828434.0;FR86539828434;4;336,0;MD002H50S83X1Z
+4036dede-5803-4d77-8b35-63d122d4b163;626.0;HOTEL OPERA-CHATEAUDUN;30 RUE DE CHATEAUDUN;75009;PARIS;FR;"""sebastien.francois@figestel.fr, ophelie@figestel.fr""";;382509602.0;FR00382509602;4;336,0;MD002G5N0QCFKH
+2dded2f0-75a4-4295-9633-604117ec5385;629.0;HOTEL BEAUREGARD SARL;691 ROUTE D'ALBERTVILLE;74320;SEVRIER;FR;e.boitte@hotel-beauregard.com;+33680893068;318786571.0;FR59318786571;4;336,0;MD002H4Z8SZD2W
+74c84117-eee1-4e25-8a4f-04fa75f5f1c4;630.0;EUROPE HOTEL;103 BOULEVARD DE GRENELLE;75015;PARIS;FR;mouloud@europehotelparis.com;;572165645.0;FR79572165645;4;336,0;MD002MS18VA34Z
+17de533c-1495-4063-9fd1-4c46d92acac4;;CHAMBRE SYNDICALE DE LA HAUTE COUTURE;102 RUE DU FAUBOURG SAINT-HONORE;75008;PARIS;FR;info@fhcm.paris;;775671647.0;FR85775671647;0;0,0;
+ba589e37-182f-4ef9-ac71-2b4b8576fdec;635.0;BOUTIQUE HOTELS COLLECTION;14 RUE EMILE FOURCAND;33000;BORDEAUX;FR;f.martin@le-bhc.com;+33607409617;893477141.0;FR74893477141;0;0,0;MD002S1ZJ2X6J4
+1e749aba-f92d-4164-a20c-a970be37d6c1;;SMART GOODIES;51 BOULEVARD DE LA REPUBLIQUE;78400;CHATOU;FR;smartcontact@smart-goodies.com;01 88 60 51 50;823215306.0;FR31823215306;0;0,0;
+d75a018f-ac91-4f2e-b47d-1cda2c8f2b42;638.0;V.N.H. RESSOURCES GROUP;42 RUE DE CHATEAUDUN;75009;PARIS;FR;"""camiglieri@gmail.com, l.mahjoubi@vnh.fr""";+ 33 1 53 25 11 30;449013028.0;FR96449013028;0;0,0;
+706d3fbf-57ec-443a-95d0-10c525e24ca5;642.0;SAS D'ELBEE (LE GÉNÉRAL D'ELBÉE HÔTEL & SPA);PLACE D'ARMES;85330;NOIRMOUTIER-EN-L'ILE;FR;vincent.lebouteiller@generaldelbee.fr;+33251391029;813635661.0;FR62813635661;4;336,0;MD002WA9F93WX9
+8657b0bc-c220-4d95-af48-8ff273254108;644.0;LE BALDAQUIN HOTEL;16 RUE CAROLINE;75017;PARIS;FR;clemence.gibert@gmail.com;;484214903.0;FR75484214903;4;552,0;MD002XVFEW4NPS
+49949996-dfd8-447c-9b98-bb2176a0ce89;648.0;OTICA;14 RUE VICTOR HUGO;71000;MACON;FR;"""communication@hotelmacon-panorama360.com, comptabilite@groupe-otica.com""";;480210079.0;FR23480210079;0;0,0;
+b5e275a2-feae-4ffe-973c-5c359d49b5ec;90.0;HOTEL LE MARCEL;11 Rue du 8 Mai 1945;75010;Paris;FR;"""m.garabedian@lemarcelhotel.com, pj@groupecible.com, comptafournisseurs@groupecible.com, msimonot@ciblehotels.com, abansard@groupecible.com""";;;;1;648,0;MD000D65XKW61G
+7d086173-9dea-432b-ba44-00779e6e3274;503.0;SARL LES MARRONNIERS;Lavachets;73320;Tignes;FR;factures+cles-000342@m.inexweb.fr;;;;4;784,32;MD000T26H7KHDT
+b53e4c07-c6f6-49ca-8514-c08313965a3d;324.0;HOTEL LES HAUTS DE PASSY;37 Rue de l'Annonciation;75016;Paris;FR;;;;;0;0,0;
+ba9d8aca-26b4-4ff7-adb2-5c667e0d0780;640.0;HOTEL PANORAMA 360 MACON;14 RUE VICTOR HUGO;71000;MACON;FR;communication@hotelmacon-panorama360.com;;823597067.0;FR35823597067;8;9912,34;
+21b28cb5-089c-42bb-bea4-92f12b65949e;;HOTEL OPERA-CHATEAUDUN;30 RUE DE CHATEAUDUN;75009;PARIS;FR;"""sebastien.francois@figestel.fr, ophelie@figestel.fr""";;382509602.0;FR00382509602;0;0,0;
+1ee7d0a9-7afc-4d1c-962f-f2cb7abd164f;639.0;MAIKA MAIKA;49 RUE DE PONTHIEU;75008;PARIS;FR;"""marie@maika-assistance.com, fr.solignac@gmail.com""";0184177377;952722346.0;FR67952722346;4;552,0;MD002SZ0TTET1N
+715d07d4-01a5-4355-8f29-6e1342e9f0fa;504.0;LES COTES;134 CHEMIN DE CROUZE;73320;TIGNES;FR;"""anne-sophie@alpapart.com, cindy@intersport-tignes.fr""";;513625392.0;FR51513625392;4;3393,36;MD001JDBE776E5
+cd76cb92-7f0c-4c4a-9bce-74f6f878a445;584.0;STREET OFFICE IMMOBILIER;23 RUE RASPAIL;92300;LEVALLOIS-PERRET;FR;valerie.manin@street-office.fr;;510475940.0;FR77510475940;0;0,0;
+d3335dc3-2d4f-4741-977c-8f2a73325afd;651.0;A RENA D'ORU;LD ESIGNA;20118;COGGIA;FR;"""valmeinier@les-carrettes.com, hotel.arenadoru@outlook.com, terreflavie@gmail.com""";;913104733.0;FR67913104733;0;0,0;MD002ZZFFARC4S
+ecf84b6a-9ecf-4302-8c43-7e4e8c74609f;641.0;HOTEL LES BARTAVELLES & SPA;785 Route de Gap;05200;Crots;FR;christophe.pernin@bartavelles.com;;;;4;336,0;
+3866a99c-f647-41d5-ae9b-8dfa19e54038;;BRIT HOTEL DEVELOPPEMENT;22 RUE LOUIS LAVERGNE;22600;LOUDEAC;FR;florian.ricordel@brithotel.fr;;433981206.0;FR27433981206;0;0,0;
+5b701a50-8002-494d-ae0c-fac007c0bd1f;646.0;EASTLODGE LYON EST EUREXPO;17 Rue de la Cordière;69800;Saint-Priest;FR;nc@beelodge.com;+33988777004;510700776.0;FR47510700776;2;4824,0;
+5fa980e6-6e86-4f9b-957f-2ed7ab36eee7;;BEELODGE BLOIS;1 Rue Germaine Tillion;41000;Blois;FR;nc@beelodge.com;+33 9 88 77 70 04;802598219.0;FR44802598219;2;7248,0;
+1e350624-ed4c-417f-9ff4-0c9ae945a807;647.0;WESTLODGE DARDILLY LYON NORD;11 Chemin de Gargantua;69570;Dardilly;FR;nc@beelodge.com;+33988777004;510700776.0;FR47510700776;1;1608,0;
+99e3522e-7748-482b-ae77-41d942d6cdbe;;ARCHIVE - HOTEL BEAUGENCY;;;;;;;;;0;0,0;
+6142db7e-57d5-4aa1-9d18-e56604683087;622.0;HOTEL DU PORT;4 RUE DU PORT;29740;PLOBANNALEC-LESCONIL;FR;"""contact@hotelduportlesconil.com, chever.delphine@gmail.com, t.acquitter@gmail.com""";;220420244.0;;9;1414,8;MD002QFKYKYK3S
+e07cd7d8-b3f8-4b7d-8246-6f1f044a9d1f;626.0;HOTEL CHATEAUDUN;;;;;;;;;0;0,0;
+01ca3de2-44e0-4480-a760-62782159a0db;630.0;EUROPE HOTEL PARIS EIFFEL;;;;;;;;;0;0,0;
+63b37f7e-e64e-40d7-bc4e-5debf6b9eca7;;FEDERATION DE LA HAUTE COUTURE ET DE LA MODE;;;;;;;;;0;0,0;
+63d5d66d-27d3-4f28-9c26-71f98475d1c6;644.0;LE BALDAQUIN HOTEL ( HOTEL EXCELSIOR BATIGNOLLES );;;;;;;;;0;0,0;
+9c6b1c59-41e7-4d01-b17e-6133c79bbbd0;652.0;CHALETS ARC 1838;13 AVENUE DE LA MOTTE-PICQUET;75007;PARIS;FR;"""py@chalet-arc-1838.com, audreydiler@gmail.com""";;;;2;5361,6;MD002ZZDW10G6C
+41a96b66-0de4-47d6-8b69-9e6854db7280;;ARCHIVE - HOTEL LA COUR DES AUGUSTINS LCDA SA;;;;;;;;;0;0,0;
+cac2e83a-9ef5-41bc-8f5b-2574b0db05c7;;ARCHIVE - HOTEL LA VIEILLE FRANCE;;;;;;;;;0;0,0;
+026add42-ab47-43a1-8fa0-0a0b9517b431;;ARCHIVE - HOTEL VERSAILLES CHANTIERS;;;;;;;;;0;0,0;
+6f6f92d8-2a0f-4376-ba0a-97cd4aefeebd;;ARCHIVE - SARL LES COTES ( ALPAPART );;;;;;;;;0;0,0;
+e1b2d367-da53-45b3-bdb4-47015e1dffdd;;COMPASS GROUPE - MILLESSENCE;123 Avenue de la République;92320;Châtillon;FR;"""mafacture@compass-group.fr, elodie.bernaerts@compass-group.fr""";;;;0;0,0;
+816f3d0e-86e0-4fdb-ae83-0d0e5199f419;367.0;HOTEL DE L'EUROPE;;;;;;;;;0;0,0;
+c1094c72-7a8c-4e8f-adae-dcf5d234ef01;472.0;HOTEL EDGAR ST BRIEUC;;;;;;;;;0;0,0;
+d42d3d5b-77ec-4eba-bae1-601f25f18c15;584.0;STREET OFFICE IMMOBILIER;;;;;;;;;0;0,0;
+1a1325ea-1202-476b-a2d6-b034ba1e0efa;653.0;AP HOTELS;4 AVENUE PERCIER;75008;PARIS;FR;;;908643596.0;FR37908643596;0;0,0;
+eb656ee4-cb3f-4021-b8e8-5718e8d23682;654.0;PARIS DECOUVERTES;24 Rue Chaptal;75009;Paris;FR;parisdecouvertes1@gmail.com;;;;1;108,0;
+fb0c76c9-3516-48c6-b1ae-1c4adcfb0a72;655.0;HOTEL DE LA PORTE DE SAINT - MALO;35 RUE SAINT MALO;22100;DINAN;FR;info@hotelportemalo.com;;909419830.0;FR60909419830;2;888,0;MD0034N1J7XEMR
+5e4ac6e8-8c70-440a-ad45-199d560f258d;656.0;HOTEL AUTEUIL TOUR EIFFEL;10 Rue Félicien David;75016;Paris;FR;"""loise.goujon@aphotels.fr, reservation@ateparis.com""";+33140505757;315629683.0;FR87315629683;0;0,0;MD0035YN7MBK94
+f5092478-8036-475a-9904-3d43c1d9df69;220.0;HOTEL CLOITRE SAINT - LOUIS;20 Rue du Portail Boquier;84000;Avignon;FR;"""hotel@cloitre-saint-louis.com, loise.goujon@aphotels.fr""";+33490275555;;;0;0,0;MD0035YN42NVAG
+2c757c6e-44a6-4e2b-907a-5b03492d8039;235.0;AVIGNON GRAND HOTEL SOCIETE NOUVELLE;34 BOULEVARD SAINT-ROCH;84000;AVIGNON;FR;"""loise.goujon@aphotels.fr, reservationagh@cloitre-saint-louis.com""";;492062989.0;FR08492062989;0;0,0;MD0035YN0KX4XF
