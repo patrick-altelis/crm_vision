@@ -107,8 +107,6 @@ def get_stats():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5001, debug=True)
 # Route pour recherche avancée avec filtres multiples
 @app.route('/api/companies/advanced-search', methods=['GET'])
 def advanced_search():
@@ -163,3 +161,17 @@ def companies_with_activity():
         return jsonify(response.data)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+# Route de suppression d'une entreprise
+@app.route('/api/companies/<int:id>', methods=['DELETE'])
+def delete_company(id):
+    try:
+        response = supabase.table('companies').delete().eq('id', id).execute()
+        if not response.data:
+            return jsonify({"error": "Entreprise non trouvée"}), 404
+        return jsonify({"message": "Entreprise supprimée avec succès"}), 200
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5001, debug=True)
