@@ -138,14 +138,37 @@ def advanced_search():
 @app.route('/api/companies/stats/by-owner', methods=['GET'])
 def stats_by_owner():
     try:
-        response = supabase.table('companies')\
-            .select("owner, count(*)", count="exact")\
-            .not_('owner', 'is', None)\
-            .group_by('owner')\
-            .execute()
+        print("Début de la requête stats_by_owner")
         
-        return jsonify(response.data)
+        # Modification de la requête Supabase
+        response = supabase.table('companies').select(
+            "owner", 
+            "count"
+        ).neq(
+            'owner', 
+            None
+        ).execute()
+        
+        # Traitement des résultats
+        owner_stats = {}
+        for row in response.data:
+            owner = row.get('owner', 'Non assigné')
+            if owner in owner_stats:
+                owner_stats[owner] += 1
+            else:
+                owner_stats[owner] = 1
+        
+        # Conversion en format attendu
+        formatted_stats = [
+            {"owner": owner, "count": count}
+            for owner, count in owner_stats.items()
+        ]
+        
+        return jsonify(formatted_stats)
     except Exception as e:
+        print(f"Erreur dans stats_by_owner: {str(e)}")
+        import traceback
+        print(traceback.format_exc())
         return jsonify({"error": str(e)}), 500
 
 # Route pour obtenir les entreprises avec activité récente
